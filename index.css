@@ -1,6 +1,6 @@
 
  #F{
-    background-color:green;
+    background-color:aqua;
     padding: 10px;
     border-radius: 5px;
     
@@ -24,4 +24,45 @@
  }
  h1:hover{
  background-color: black;
+ }
+ #f2{background-color: aqua;
+   padding: 20px;border-radius: 10px;
+ }
+ #f2:hover{
+   background-image: url('images/tiner bara (1).jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+ }
+
+ #f3{background-color: aqua;
+   padding: 20px;border-radius: 10px;
+ }
+ #f3:hover{
+   background-image: url('images/widthouthad2.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   color:magenta;
+   
+ }
+
+ #f4{background-color: aqua;
+   padding: 20px;border-radius: 10px;
+ }
+ #f4:hover{
+   background-image: url('images/widthhed.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   color:magenta;
+   
+ }
+ #f5{background-color: aqua;
+   padding: 20px;border-radius: 10px;
+ }
+ #f5:hover{
+   background-image: url('images/orna.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+
+   
  }
